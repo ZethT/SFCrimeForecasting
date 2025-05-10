@@ -2,14 +2,9 @@
 
 This project aims to predict the **category of crime** in San Francisco using **time and location-based features**. By combining clustering, machine learning, and deep learning (LSTM), the notebook explores and models spatio-temporal crime trends.
 
----
-
-## 🔧 Requirements
-
-```bash
-pip install -r requirements.txt
 
 ---
+
 
 ## ✅ How to Use
 
@@ -51,4 +46,10 @@ pip install -r requirements.txt
 
 All models are evaluated using accuracy, F1-score, and confusion matrix.
 
+---
+
+## 🔧 Requirements
+
+```bash
+pip install -r requirements.txt
 
