@@ -43,7 +43,7 @@ All models are evaluated using accuracy, F1-score, and confusion matrix.
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 ```bash
 pip install -r requirements.txt
