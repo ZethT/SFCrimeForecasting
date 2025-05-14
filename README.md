@@ -1,10 +1,10 @@
-# 🕵️ SF Crime Forecasting
+#  SF Crime Forecasting
 
 This project aims to predict the **category of crime** in San Francisco using **time and location-based features**. By combining clustering, machine learning, and deep learning (LSTM), the notebook explores and models spatio-temporal crime trends.
 
 ---
 
-## ✅ How to Use
+## How to Use
 
 - Using the API or download the dataset(SF Crime Forecasting.ipynb) to you local machine/Google Drive
 - Upload or mount the dataset (CSV file with police incident reports) via Google Drive.
@@ -12,7 +12,7 @@ This project aims to predict the **category of crime** in San Francisco using **
 
 ---
 
-## 🧠 Project Goals
+## Project Goals
 
 - Predict `crime_type_group` from time/location patterns
 - Discover spatial crime hotspots (DBSCAN)
@@ -21,7 +21,7 @@ This project aims to predict the **category of crime** in San Francisco using **
 
 ---
 
-## 📊 Features Used
+## Features Used
 
 - **Temporal**: hour, day, month, year, day of week
 - **Spatial**: neighborhood, police district, DBSCAN cluster
@@ -30,7 +30,7 @@ This project aims to predict the **category of crime** in San Francisco using **
 
 ---
 
-## 🧪 Models Trained
+## Models Trained
 
 | Model              | Notes                                 |
 | ------------------ | ------------------------------------- |
